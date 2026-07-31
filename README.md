@@ -24,3 +24,5 @@ source venv/bin/activate  # or venv\Scripts\activate on Windows
 
 # 3. Install dependencies
 pip install -r requirements.txt
+
+python dns_lookup.py
